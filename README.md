@@ -66,6 +66,6 @@ Music and Movie recommender systems using collaborative filtering on public data
 📫 Let's Connect!
 
     📧 Email: ranacse05@gmail.com
-    💼 LinkedIn: https://www.linkedin.com/in/ranacse05/ <!-- Add your actual LinkedIn URL -->
+    💼 LinkedIn: https://www.linkedin.com/in/ranacse05/ 
     🐙 GitHub: https://github.com/ranacse05/
 ⭐️ From Raquibul Islam
