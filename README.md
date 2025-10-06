@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Raquibul Islam 👋</h1> <h3 align="center">Assistant Engineer & Software Developer | IoT & Critical Infrastructure Specialist</h3><p align="center"> <a href="https://www.linkedin.com/in/ranacse05/">LinkedIn</a> • <a href="mailto:ranacse05@gmail.com">Email</a>  <!-- • <a href="[Your Portfolio URL]">Portfolio</a>Optional: Add your portfolio link --> </p>
+🚀 About Me
 
-<!--
-**ranacse05/ranacse05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science professional with over a decade of experience in software development, team leadership, and critical infrastructure systems. My career spans roles from hands-on coding to strategic technical leadership, with a current focus on securing and modernizing data centers and critical systems through IoT and resilient frameworks.
 
-Here are some ideas to get you started:
+    🔭 Currently Working On: IoT frameworks for critical infrastructure security and scalability at Dhaka Electric Supply Company Limited (DESCO)
+    🌱 Currently Learning: Advanced Cyber Security principles through my Master's degree
+    💼 Experience: 10+ years in full-stack development, system architecture, and team leadership
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    📚 Education:
+
+        M.Sc. in Computer Science (Cyber Security) - United International University (2023-2025)
+        B.E. in Computer Science & Engineering - Rajshahi University of Engineering & Technology
+    ⚡ Fun Fact: I've progressed from Software Developer to Head of Development roles multiple times throughout my career!
+
+💼 Technical Skills
+
+Programming Languages:
+
+    Expert: PHP, Python, JavaScript/TypeScript
+    Proficient: C, SQL
+
+Frameworks & Technologies:
+
+    Backend: Laravel, CakePHP, CodeIgniter
+    Frontend: React
+    DevOps & Cloud: AWS, Docker, Git
+    IoT & Hardware: Arduino, ESP32, STM32
+
+Domain Expertise:
+
+    System Administrator 
+    Data Center Management
+    IoT System Architecture
+    Full-Stack Web Development
+    Team Leadership & Project Management
+    Digital Forensics & Security Monitoring
+
+🏆 Experience Highlights
+Dhaka Electric Supply Company Limited (DESCO)
+
+Assistant Engineer (Data Center)
+
+    Managed server infrastructure and hypervisor systems
+    Implemented security protocols and performed digital forensics
+    Deployed applications and patches in critical infrastructure environments
+
+Digi-Tech Bangladesh Ltd
+
+Director & Head of Development
+    Led software design using computer science principles and mathematical analysis
+    Directed junior developers and coordinated system installations
+    Architected object-oriented systems with focus on code abstraction
+
+Noobis, Inc
+
+Head of Development → Associate Software Engineer → Software Developer
+
+    Progressed through multiple roles over 4+ years
+    Led teams developing web applications across multiple platforms
+    Specialized in transforming PSD designs into functional, bug-free applications
+
+Music and Movie recommender systems using collaborative filtering on public datasets.
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ranacse05&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranacse05&theme=radical" alt="GitHub Streak" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranacse05&layout=compact&theme=radical" alt="Top Languages" /> </p>
+📫 Let's Connect!
+
+    📧 Email: ranacse05@gmail.com
+    💼 LinkedIn: https://www.linkedin.com/in/ranacse05/ <!-- Add your actual LinkedIn URL -->
+    🐙 GitHub: https://github.com/ranacse05/
+⭐️ From Raquibul Islam
