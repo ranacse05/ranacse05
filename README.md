@@ -1,10 +1,14 @@
 <h1 align="center">Hi there, I'm Raquibul Islam 👋</h1> <h3 align="center"> Software Engineer | IoT Specialist | System Administrator</h3>
-<p align="center"> <a href="https://www.linkedin.com/in/ranacse05/">LinkedIn</a> • <a href="mailto:ranacse05@gmail.com">Email</a>  • <a href="http://leetcode.com/ranacse05">LeetCode</a> 
+<!--  <p align="center"> <a href="https://www.linkedin.com/in/ranacse05/">LinkedIn</a> • <a href="mailto:ranacse05@gmail.com">Email</a>  • <a href="http://leetcode.com/ranacse05">LeetCode</a>  -->
     <!-- Optional: Add your portfolio link --> </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ranacse05/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/ranacse05/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:ranacse05@gmail.com)
+
+<div align="center">
     
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranacse05/)
+  [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ranacse05/) 
+  [![Email Badge](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranacse05@gmail.com)
+</div>
+
 🚀 About Me
 
 I am a Computer Science professional with over a decade of experience in software development, team leadership, and System administratorship. My career spans roles from hands-on coding to strategic technical leadership, with a current focus on securing and modernizing data centers and critical systems through IoT and resilient frameworks.
