@@ -1,14 +1,13 @@
-<h1 align="center">Hi there, I'm Raquibul Islam 👋</h1> <h3 align="center">Assistant Engineer & Software Developer | IoT & Critical Infrastructure Specialist</h3><p align="center"> <a href="https://www.linkedin.com/in/ranacse05/">LinkedIn</a> • <a href="mailto:ranacse05@gmail.com">Email</a>  <!-- • <a href="[Your Portfolio URL]">Portfolio</a>Optional: Add your portfolio link --> </p>
+<h1 align="center">Hi there, I'm Raquibul Islam 👋</h1> <h3 align="center"> Software Engineer | IoT Specialist | System Administrator</h3><p align="center"> <a href="https://www.linkedin.com/in/ranacse05/">LinkedIn</a> • <a href="mailto:ranacse05@gmail.com">Email</a>  • <a href="http://leetcode.com/ranacse05">LeetCode</a> <!-- Optional: Add your portfolio link --> </p>
 🚀 About Me
 
-I am a Computer Science professional with over a decade of experience in software development, team leadership, and critical infrastructure systems. My career spans roles from hands-on coding to strategic technical leadership, with a current focus on securing and modernizing data centers and critical systems through IoT and resilient frameworks.
+I am a Computer Science professional with over a decade of experience in software development, team leadership, and System administratorship. My career spans roles from hands-on coding to strategic technical leadership, with a current focus on securing and modernizing data centers and critical systems through IoT and resilient frameworks.
 
-    🔭 Currently Working On: IoT frameworks for critical infrastructure security and scalability at Dhaka Electric Supply Company Limited (DESCO)
+    🔭 Currently Working As: System Administrator at TIER-III data center of Dhaka Electric Supply Company Limited (DESCO) 
     🌱 Currently Learning: Advanced Cyber Security principles through my Master's degree
-    💼 Experience: 10+ years in full-stack development, system architecture, and team leadership
+    💼 Experience: 15+ years in full-stack development, system architecture, and team leadership
 
     📚 Education:
-
         M.Sc. in Computer Science (Cyber Security) - United International University (2023-2025)
         B.E. in Computer Science & Engineering - Rajshahi University of Engineering & Technology
     ⚡ Fun Fact: I've progressed from Software Developer to Head of Development roles multiple times throughout my career!
@@ -60,9 +59,12 @@ Head of Development → Associate Software Engineer → Software Developer
     Led teams developing web applications across multiple platforms
     Specialized in transforming PSD designs into functional, bug-free applications
 
-Music and Movie recommender systems using collaborative filtering on public datasets.
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ranacse05&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranacse05&theme=radical" alt="GitHub Streak" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranacse05&layout=compact&theme=radical" alt="Top Languages" /> </p>
+
+📊 LeetCode Stats
+<p align="center"> <img src="https://leetcard.jacoblin.cool/ranacse05?theme=light&font=Coda" alt="LeetCode Stats" /> </p>
+
 📫 Let's Connect!
 
     📧 Email: ranacse05@gmail.com
