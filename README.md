@@ -63,7 +63,7 @@ Director & Head of Development
 
 Noobis, Inc
 
-Head of Development → Associate Software Engineer → Software Developer
+Software Developer → Associate Software Engineer → Head of Development
 
     Progressed through multiple roles over 4+ years
     Led teams developing web applications across multiple platforms
