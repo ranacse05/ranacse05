@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Raquibul Islam 👋</h1> <h3 align="center"> Software Engineer | IoT Specialist | System Administrator</h3>
 <!--  <p align="center"> <a href="https://www.linkedin.com/in/ranacse05/">LinkedIn</a> • <a href="mailto:ranacse05@gmail.com">Email</a>  • <a href="http://leetcode.com/ranacse05">LeetCode</a>  -->
     <!-- Optional: Add your portfolio link --> </p>
-
 <div align="center">
     
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranacse05/)
@@ -68,7 +67,7 @@ Software Developer → Associate Software Engineer → Head of Development
     Progressed through multiple roles over 4+ years
     Led teams developing web applications across multiple platforms
     Specialized in transforming PSD designs into functional, bug-free applications
-
+    
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ranacse05&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranacse05&theme=radical" alt="GitHub Streak" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranacse05&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
