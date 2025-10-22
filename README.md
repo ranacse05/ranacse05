@@ -75,7 +75,6 @@ Software Developer → Associate Software Engineer → Head of Development
 <p align="center"> <img src="https://leetcard.jacoblin.cool/ranacse05?theme=light&font=Coda" alt="LeetCode Stats" /> </p>
 
 📫 Let's Connect!
-
     📧 Email: ranacse05@gmail.com
     💼 LinkedIn: https://www.linkedin.com/in/ranacse05/ 
     🐙 GitHub: https://github.com/ranacse05/
