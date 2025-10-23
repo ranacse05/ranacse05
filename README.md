@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Raquibul Islam 👋</h1> <h3 align="center"> Software Engineer | IoT Specialist | System Administrator</h3>
-<!--  <p align="center"> <a href="https://www.linkedin.com/in/ranacse05/">LinkedIn</a> • <a href="mailto:ranacse05@gmail.com">Email</a>  • <a href="http://leetcode.com/ranacse05">LeetCode</a>  -->
-    <!-- Optional: Add your portfolio link --> </p>
+
 <div align="center">
     
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranacse05/)
