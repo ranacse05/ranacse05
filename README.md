@@ -6,7 +6,6 @@
   [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ranacse05/) 
   [![Email Badge](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranacse05@gmail.com)
 </div>
-
 🚀 About Me
 
 I am a Computer Science professional with over a decade of experience in software development, team leadership, and System administratorship. My career spans roles from hands-on coding to strategic technical leadership, with a current focus on securing and modernizing data centers and critical systems through IoT and resilient frameworks.
